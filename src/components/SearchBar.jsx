@@ -3,7 +3,7 @@ import React from "react";
 const SearchBar = ({ setText }) => {
   return (
     <>
-      <div className="mx-6 mt-3 ">
+      <div className="mx-4 mt-3 ">
         <h2 className="mx-16 text-lg">Search Form</h2>
         <input
           type="text"
